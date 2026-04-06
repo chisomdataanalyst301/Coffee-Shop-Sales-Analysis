@@ -139,4 +139,4 @@ Analyze trends and document findings.
 This project was completed as part of a data analysis learning journey using Excel, with a focus on building practical, portfolio-ready projects.
 ### Chisom Precious
 
-Data Analyst | Power BI Developer | Aspiring Data Scientist.
+Data Analyst | Power BI Developer | Business Analyst | Aspiring Data Scientist.
