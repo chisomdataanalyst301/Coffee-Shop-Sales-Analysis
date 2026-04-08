@@ -2,6 +2,7 @@
 ## Project Description
 This project explores a coffee shop sales dataset to understand how the business performs over time. Using Microsoft Excel, the analysis focuses on uncovering patterns in revenue and customer transactions, identifying peak sales periods, and spotting opportunities to improve overall performance.
 The work reflects a practical, real-world data analysis workflow, starting from messy, pivot-style data and transforming it into clear insights that a business owner or manager can actually use to make decisions.
+It contain 149117 dataset.
 ## Project Overview
 This project analyzes a coffee shop sales dataset using Microsoft Excel. The goal is to extract meaningful business insights from sales data, identify trends over time, and support decision-making with data-driven recommendations.
 The dataset appears to be structured as a pivot-style Excel export, summarizing revenue and transaction counts across different months.
